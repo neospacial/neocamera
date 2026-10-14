@@ -1,6 +1,6 @@
 # neocamera
 
-**Version 1.5.0** — `neocamera-v1.5.0.html`
+**Version 1.5.0**
 
 A camera app in one HTML file. It looks like the stock iPhone camera app. It takes photos and it records video. It makes no network calls and it loads no libraries, thus it operates fully offline.
 
